@@ -1,4 +1,4 @@
-Software Requirements Specification (SRS): PharmaShift
+📋 Software Requirements Specification (SRS): PharmaShift
 1. Project Overview
    PharmaShift is a full-stack web application designed to automate and manage the weekly scheduling of pharmacy personnel. The system aims to replace manual, error-prone scheduling with a rule-based engine that balances business operational needs, labor laws, and employee preferences.
 
